@@ -3,13 +3,13 @@
 
 # Binome :
 
-Nom: Lamzaoui
-Prénom: Amar
-Numéro étudiant : 21109486
+Nom: Lamzaoui  
+Prénom: Amar  
+Numéro étudiant : 21109486  
 
-Nom: BA
-Prénom: Mouhamadou Moustapha    
-Numéro étudiant: 28615624
+Nom: BA  
+Prénom: Mouhamadou Moustapha     
+Numéro étudiant: 28615624  
 
 Dans ce projet, il est question d'un exemple d'utilisation d'ElasticSearch pour indexer des données avec Spring Boot (Java 8). 
 On utilise Vue.js pour le client.
