@@ -1,0 +1,9 @@
+/home/mohamed/Projet_2/src/main/java/com/daar/example/config/Config.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/utils/WordParser.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/models/es/EsCV.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/resources/CVContext.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/hooks/CVIndexer.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/resources/CVResource.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/utils/PDFParser.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/services/CVService.java
+/home/mohamed/Projet_2/src/main/java/com/daar/example/ExampleApplication.java

@@ -1,0 +1,9 @@
+com/daar/example/models/es/EsCV.class
+com/daar/example/config/Config.class
+com/daar/example/ExampleApplication.class
+com/daar/example/utils/PDFParser.class
+com/daar/example/resources/CVResource.class
+com/daar/example/hooks/CVIndexer.class
+com/daar/example/resources/CVContext.class
+com/daar/example/utils/WordParser.class
+com/daar/example/services/CVService.class
